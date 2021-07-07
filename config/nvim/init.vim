@@ -11,6 +11,7 @@ Plug 'neoclide/coc.nvim', {'tag': 'v0.0.78'}
 Plug 'RRethy/vim-illuminate'
 Plug 'frazrepo/vim-rainbow'
 Plug 'preservim/nerdcommenter'
+Plug 'OmniSharp/omnisharp-vim'
 "Plug 'flazz/vim-colorschemes'
 "Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 "Plug 'junegunn/fzf.vim'
